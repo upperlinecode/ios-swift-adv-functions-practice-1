@@ -7,7 +7,7 @@ import UIKit
 
 //1. Bio
 //Create a function called bio that accepts three parameters: a string called name, a string called homeTown, and an integer called age.
-//print(bio("Dave", name: "Pittsburgh", age: 18))
+//print(bio(name: "Dave", homeTown: "Pittsburgh", age: 18))
 //   prints:
 //   Name: Dave
 //   Home Town: Pittsburgh
